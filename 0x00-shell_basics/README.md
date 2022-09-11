@@ -1,1 +1,1 @@
-0. Script that prints the absolute path name of the current working directory 1. Displays the contents list of your current directory 2. Changes the working directory to the users home directory.
+3. Display current directory contents in a long format 4. Display current directory contents, including hidden files startin with . 5.Displays current directory contents 6. Script that creates a directory. 7. Move Betty in my first directory
